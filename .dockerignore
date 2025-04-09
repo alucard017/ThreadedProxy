@@ -1,0 +1,5 @@
+*.o
+*.out
+proxy_server
+.vscode/
+*.log
